@@ -320,6 +320,24 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     font-family: 'Raleway', sans-serif; 
 }
 
+#review-card-button-colors {
+    background-color: white;
+    border-color: white;
+    font-family: 'Raleway', sans-serif;  
+    color: #333F48;
+    border-radius: 0;
+    font-size: 19px;
+    margin-top: 5px;
+
+}
+
+#review-card-button-colors:hover {
+    background-color: #333F48;
+    color: #ffff;
+    border-color: #333F48;
+    font-family: 'Raleway', sans-serif; 
+}
+
 /* ALL CARDS END ------------------------------------------*/
 
 
